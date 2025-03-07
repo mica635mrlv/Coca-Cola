@@ -8,12 +8,11 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(#CF2425,#da6062 50%,#da6062 60%,#da3b3f)
+    background: linear-gradient(#bf1f1f,#9c3234 30%,#8c3032 40%,#c92d33)
 }
 
 header, footer {
     height: 100px;
-    background-color: #CF2425;
     color: #FFFFFF;
     display: flex;
     align-items: center;
@@ -53,7 +52,7 @@ main {
     color: #ffffff;
     font-size: 2.5rem;
     width: 240px;
-    transform: translateX(-100%);
+    transform: translateX(-125%);
     text-align: end;
 }
 .content-image {
