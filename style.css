@@ -8,6 +8,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
+    background: linear-gradient(#CF2425,#da6062 50%,#da6062 60%,#da3b3f)
 }
 
 header, footer {
