@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vh;
+    height: 100vh;
+    display: grid;
+    place-content: center;
+    background:linear-gradient(#1f3cbf,#1026a2 30%, #2c40c3 40%,#040545);
+}
